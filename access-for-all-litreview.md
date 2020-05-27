@@ -1,10 +1,11 @@
 # Access for All: 
 ## A Literature Review of Bookmobiles & Open Data in Libraries
-** Erica Husting & Kaitlin Throgmorton**
+
+**Erica Husting & Kaitlin Throgmorton**
 *University of Washington*
 
 ### Introduction
-    At their most fundamental levels, bookmobiles and open data promise the same ideal: access for everyone. This literature review seeks to merge two formerly disconnected areas of study together in order to present recommendations on the best way to open up data on library bookmobile services, and then publish that data to an open government data portal for public viewing and visualizing. In order to cover these two separate topics, this literature review will discuss the historic, current, and future landscape of bookmobiles; open data efforts and outreach services in libraries generally; and open data publishing specifically. Toward the end of this literature review, data fields for bookmobile services datasets will be proposed, and their potential implications discussed. 
+At their most fundamental levels, bookmobiles and open data promise the same ideal: access for everyone. This literature review seeks to merge two formerly disconnected areas of study together in order to present recommendations on the best way to open up data on library bookmobile services, and then publish that data to an open government data portal for public viewing and visualizing. In order to cover these two separate topics, this literature review will discuss the historic, current, and future landscape of bookmobiles; open data efforts and outreach services in libraries generally; and open data publishing specifically. Toward the end of this literature review, data fields for bookmobile services datasets will be proposed, and their potential implications discussed. 
 
 ### Purpose
 This literature review is part of our Capstone project — Open Data Wagon: Opening Up Mobile Services Data in Public Libraries. In this applied capstone, we aim to collect and open up data on public library mobile services, such as bookmobile operations. Currently, there is limited external data available on this topic. The vision for this project is to open up library data in order to increase information sharing among libraries, expand funding opportunities for mobile services programs by supplying additional data, and heighten library mobile services program visibility, while also emphasizing ethics, accessibility, and protection of patron privacy.
@@ -39,7 +40,7 @@ In addition, some data portals provide guidance on how to publish open data onli
 ### Proposed Fields
     Based on the literature as well as discussion with the pilot library about bookmobile data, several types of data to collect are emerging: data compiling factual information about the bookmobile itself, such as features and maintenance; data on circulation/collection information; and data about the bookmobile route. 
 
-| Possible data field | Type | Rationale | Source / Citation
+| **Possible data field** | **Type** | **Rationale** | **Source / Citation** |
 | --- | --- | --- | --- |
 | ADA feature: wheelchair lift | Bookmobile specs | Bookmobiles now have to adhere to ADA regulations and requirements — but those can look different from vehicle to vehicle. | Bagshaw, 2010 |
 | ADA feature: heating/cooling system | Bookmobile specs | Bookmobiles now have to adhere to ADA regulations and requirements — but those can look different from vehicle to vehicle. | Bagshaw, 2010 |
