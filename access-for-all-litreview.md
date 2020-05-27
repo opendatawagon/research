@@ -1,8 +1,9 @@
 # Access for All: 
 ## A Literature Review of Bookmobiles & Open Data in Libraries
 
-**Erica Husting & Kaitlin Throgmorton**
-*University of Washington*
+**Written by Erica Husting, MLIS '20, & Kaitlin Throgmorton, MLIS '20, for our Capstone sponsor, Washington State Library**
+
+*Information School, University of Washington*
 
 ### Introduction
 At their most fundamental levels, bookmobiles and open data promise the same ideal: access for everyone. This literature review seeks to merge two formerly disconnected areas of study together in order to present recommendations on the best way to open up data on library bookmobile services, and then publish that data to an open government data portal for public viewing and visualizing. In order to cover these two separate topics, this literature review will discuss the historic, current, and future landscape of bookmobiles; open data efforts and outreach services in libraries generally; and open data publishing specifically. Toward the end of this literature review, data fields for bookmobile services datasets will be proposed, and their potential implications discussed. 
@@ -17,83 +18,55 @@ Due to a lack of academic literature on bookmobiles, we relied on communications
 
 ### Bookmobile History
 Inspired by ‘traveling collections’ which delivered boxes of books to users as early as the 1600s (Bagshaw, 2010; Cummings, 2009), the first U.S. bookmobile started rolling in 1905, under the direction of librarian Mary Lemist Titcomb of Washington County Free Library in Maryland. Titcomb was propelled by the idea that people who couldn’t get to town needed access to books (Levinson, 1991). This first forerunner of the bookmobile was more of a wagon, drawn by two horses and featuring shelves that could hold more than two thousand volumes, serving a coverage area of 500 square miles (Levinson, 1991). Titcomb compiled information on geography, roads, and cost in order to secure Carnegie funding for her book wagon idea, and even kept detailed records on operations — 1008 volumes were distributed in the book wagon’s first six months (Levinson, 1991). 
+
 Partly thanks to the patronage of women’s clubs (Cummings, 2009), bookmobiles began to spread throughout the country, especially to largely rural and spread-out states such as Texas and Kentucky. Kentucky currently leads the country in highest number of bookmobiles (Dankowski, 2018; Fifield, 2018).
+
 Though the bookmobile has since evolved, now taking the form of customized trucks that also offer WiFi and distribute more than just books, the central concept remains: to bring books and information to people who wouldn’t otherwise be able to access it (Bagshaw, 2010). Unfortunately, their modernization has also come with challenges. Since the bookmobile became motorized, it’s suffered whenever gas prices have soared — for instance, due to gas rationing during both World Wars and the Great Depression (Levinson, 1991; Bagshaw, 2010). Despite these struggles, bookmobiles continue to be popular as well as truly essential for those who can’t physically access a library, and can be more financially sensible than building a new branch (Bagshaw, 2010). Some have also argued that the personal nature of the services produces a close relationship between librarian and patron that is highly valued by both parties (Bagshaw, 2010). 
 
 ### Current Bookmobile Ecosystem and Statistics 
 While the nature of library outreach services have evolved over the years, the goal of these services remain the same: “public libraries meeting people where they are, striving to serve those who face barriers to accessing services, and highlighting ever-evolving services and collections that are relevant to the needs of their customers” (Yarrow & Mcallister, 2018, p.196). Bookmobiles and mobile services often are seen under this umbrella of outreach services that cater their services to the populations they serve or reflect the modern trends of the time (Yarrow & Mcallister, 2018; EBSCO, 2018). 
+
 For example, in the age of goods being delivered straight to consumers’ doors, patrons are both familiar with this model and recognize the value of this distribution method (EBSCO, 2018). Bookmobiles are also beginning to expand the services they provide patrons. The Sacramento Public Library, for example, will be picking up voter ballots along regular bookmobile routes, reaching user populations who could potentially not be able to drop off their ballots (Udell, 2019). As previously mentioned, bookmobiles also provide access to a host of technologies, including wifi, hotspots, hardware, ipads, laptops, and software (Bagshaw, 2010; EBSCO, 2018; Woltjer, 2018). 
+
 The Institute of Museum and Library Services defines a bookmobile to consist of at least all of the following: “1. A truck or van that carries an organized collection of library materials; 2. A paid staff; and 3. Regularly scheduled hours (bookmobile stops) for being open to the public” (The Institute of Museum and Library Services, 2017). The most recent data collected by the Institute of Museums and Library Services in 2017 found that 585 bookmobiles are currently delivering library services in the United States (The Institute of Museum and Library Services, 2017). The number of bookmobiles in the U.S. is on the decline; in the 1970s, approximately 2,000 bookmobiles were in service, and by 2004, there were only 844 (Bagshaw, 2010) — however, Washington state ranks fourth in number of bookmobiles (see figure) as of the 2017 IMLS Public Libraries Survey data. 
 
 ### Open Data and Public Libraries
-    In arguments made in the literature, libraries are in a position that makes working with open data a possibility, mainly to the fact that these institutions already act as infomediaries (Robinson & Mather, 2017), distributing large amounts of data to patrons – whether that be through books, metadata, information catalogs, or other resources (Okamoto, 2016). Open data provides an opportunity for libraries to remain relevant, while also complementing the skills already possessed by information professionals (Koltay, 2015; Shueh, 2015). 
+In arguments made in the literature, libraries are in a position that makes working with open data a possibility, mainly to the fact that these institutions already act as infomediaries (Robinson & Mather, 2017), distributing large amounts of data to patrons – whether that be through books, metadata, information catalogs, or other resources (Okamoto, 2016). Open data provides an opportunity for libraries to remain relevant, while also complementing the skills already possessed by information professionals (Koltay, 2015; Shueh, 2015). 
+
 However, there are some challenges libraries face when attempting to work with open data. As Koltay (2015) mentions, data literacy education is a rather new area for libraries and it often requires interdisciplinary knowledge. Still, multiple roles are emerging for public libraries in open data, including as educator, publisher, and consultant (Throgmorton, Norlander, & Palmer, 2019). Multiple public libraries in the U.S. and Canada are already beginning to publish open data about their library, such as circulation and checkout statistics, doorcounts, computer usage, and more. Though development is still new, library open data has already fueled several exciting projects such as the Hipster Reading List based on Seattle Public Library circulation open data (Goldenberg & Thomas, 2019) and Mobile Libraries based on mobile library stop data in the United Kingdom, which in part inspired this project. To the team’s knowledge, Mobile Libraries is the only bookmobile open data project currently live on the internet; it was created by an individual library and open data enthusiast (@librarieshacked) who gathered data partially via their Twitter account. 
 
 ### Open Data: Publishing Landscape
-    In the U.S., open data is supported by a variety of laws, including the Freedom of Information Act (FOIA), which allows the public to request access to any federal record (Office of Information Policy, n.d.). Open data takes FOIA one step further, however — moving beyond reactive right to request information to proactive release of information (Sunlight Foundation, n.d., b). While the move to “open by default” (Obama, 2013) often means increased access to information for users, it can lead to increased workloads for data staff. As open data programs seek to release data that is both human- and machine-readable, these two ideas can often be at odds with one another, and create complications in the data extraction, load, and transformation process (Denis & Goëta, 2017). According to Denis and Goëta (2017), this ‘rawification’ process is oxymoronic, and never as simple as it sounds: “In reality, and despite more and more powerful infrastructures, data never circulate in a perfectly fluid fashion… We are a far cry from an ideal, transparent circulation of data wherein ‘raw’ information would travel from one department to another, in and out of laboratories, without mediation,” (p. 608). 
+In the U.S., open data is supported by a variety of laws, including the Freedom of Information Act (FOIA), which allows the public to request access to any federal record (Office of Information Policy, n.d.). Open data takes FOIA one step further, however — moving beyond reactive right to request information to proactive release of information (Sunlight Foundation, n.d., b). While the move to “open by default” (Obama, 2013) often means increased access to information for users, it can lead to increased workloads for data staff. As open data programs seek to release data that is both human- and machine-readable, these two ideas can often be at odds with one another, and create complications in the data extraction, load, and transformation process (Denis & Goëta, 2017). According to Denis and Goëta (2017), this ‘rawification’ process is oxymoronic, and never as simple as it sounds: “In reality, and despite more and more powerful infrastructures, data never circulate in a perfectly fluid fashion… We are a far cry from an ideal, transparent circulation of data wherein ‘raw’ information would travel from one department to another, in and out of laboratories, without mediation,” (p. 608).
+
 While the benefits of open data are numerous, barriers and challenges exist as well. For one, born-digital content, such as open data, has a tendency to exclude certain users, such as those without access to the internet, or those with limited technical proficiency (Kunkel, 2016). Even for the technically proficient, open data portals are not always user-friendly, whether due to design or absent metadata (Kunkel, 2016; Beno, Figl, Umbrich, & Polleres, 2017; Xiao, Jeng, & He, 2018). Beno, Figl, Umbrich, & Polleres (2017) break these barriers into three categories: user-specific, provider-specific, and joint user and provider issues (p. 137). Barriers encountered by users included inaccuracies, navigational issues, and access issues, whereas provider barriers included privacy and security concerns, limited priority emphasis, and lack of resources (Beno, Figl, Umbrich, & Polleres, 2017). 
-    Despite the barriers to open data and the paradox of releasing ‘raw’ open data, most sources seem to agree on the basic steps to opening up data, which are identify, extract, clean, annotate, and release (Denis & Goëta, 2017; Broman & Woo, 2018; Washington State Office of the Chief Information Officer, n.d.). As this project has already identified the desired data and is relying on the pilot library for extraction, most of the work rests in the cleaning, annotating, and releasing stages. Data cleaning and annotating (adding metadata and other contextual information) often contribute to user issues and barriers, and thus are crucial to execute before publishing open data online. 
-One of the most recently prominent concepts in data structure design is tidy data, as advanced by RStudio’s chief scientist Hadley Wickham (2014) after realizing the majority of data analysis is tied up in data cleaning. Tidy data follows a simple format: “each variable is a column, each observation is a row, and each type of observational unit is a table” (Wickham, 2014, p. 1). Though it seems simple, tidy data is much harder to implement, particularly when working with non-scientific, humanities-oriented data. Furthermore, some researchers take issue with what ‘tidying’ implies, and insist that even data cleaning must be properly documented in order to remain fully transparent (Rawson & Muñoz, 2016).          
+
+Despite the barriers to open data and the paradox of releasing ‘raw’ open data, most sources seem to agree on the basic steps to opening up data, which are identify, extract, clean, annotate, and release (Denis & Goëta, 2017; Broman & Woo, 2018; Washington State Office of the Chief Information Officer, n.d.). As this project has already identified the desired data and is relying on the pilot library for extraction, most of the work rests in the cleaning, annotating, and releasing stages. Data cleaning and annotating (adding metadata and other contextual information) often contribute to user issues and barriers, and thus are crucial to execute before publishing open data online. 
+
+One of the most recently prominent concepts in data structure design is tidy data, as advanced by RStudio’s chief scientist Hadley Wickham (2014) after realizing the majority of data analysis is tied up in data cleaning. Tidy data follows a simple format: “each variable is a column, each observation is a row, and each type of observational unit is a table” (Wickham, 2014, p. 1). Though it seems simple, tidy data is much harder to implement, particularly when working with non-scientific, humanities-oriented data. Furthermore, some researchers take issue with what ‘tidying’ implies, and insist that even data cleaning must be properly documented in order to remain fully transparent (Rawson & Muñoz, 2016).  
+
 For a simpler, less stringent set of guidelines, Broman and Woo’s guide to organizing data in spreadsheets (2018) is more attainable. Broman and Woo recommend the following in regard to spreadsheet data: keep information consistent, only enter one item per cell, never leave cells empty, and don’t include calculations in the raw data — in addition to a variety of practical advice on formatting, naming, validation, and final publication of the data. 
+
 In addition, some data portals provide guidance on how to publish open data online. In addition to Washington state’s specific directions for data.wa.gov provided by the Office of the Chief Information Officer, San Francisco’s open data portal, DataSF, has useful guidelines regarding conducting an internal data review and clarifying a dataset for a public audience (DataSF, n.d.). 
             
 ### Proposed Fields
-    Based on the literature as well as discussion with the pilot library about bookmobile data, several types of data to collect are emerging: data compiling factual information about the bookmobile itself, such as features and maintenance; data on circulation/collection information; and data about the bookmobile route. 
+Based on the literature as well as discussion with the pilot library about bookmobile data, several types of data to collect are emerging: data compiling factual information about the bookmobile itself, such as features and maintenance; data on circulation/collection information; and data about the bookmobile route. 
 
 | **Possible data field** | **Type** | **Rationale** | **Source / Citation** |
 | --- | --- | --- | --- |
-| ADA feature: wheelchair lift | Bookmobile specs | Bookmobiles now have to adhere to ADA regulations and requirements — but those can look different from vehicle to vehicle. | Bagshaw, 2010 |
-| ADA feature: heating/cooling system | Bookmobile specs | Bookmobiles now have to adhere to ADA regulations and requirements — but those can look different from vehicle to vehicle. | Bagshaw, 2010 |
-
-ADA feature: special lighting
-Bookmobile specs
-Bookmobiles now have to adhere to ADA regulations and requirements — but those can look different from vehicle to vehicle. 
-Bagshaw, 2010
-ADA feature: miscellaneous
-Bookmobile specs
-Bookmobiles now have to adhere to ADA regulations and requirements — but those can look different from vehicle to vehicle. 
-Bagshaw, 2010
-Bookmobile type: bus, van, truck, recreational vehicle, etc.
-Bookmobile specs
-For comparison — there are so many types of bookmobiles now. 
-Bagshaw, 2010
-Length in feet of bookmobile
-Bookmobile specs
-For comparison -- there are so many types of bookmobiles
-Dancowski, 2018
-Bookmobile maintenance
-Bookmobile specs
-Important to track for reporting and analysis 
-Bagshaw, 2010
-Bookmobile costs — non-maintenance
-Bookmobile specs
-Similar to maintenance, important to track for reporting and analysis
-Bagshaw, 2010; Levinson, 1991
-Road conditions and other geographic features
-Bookmobile route
-Could be correlated to maintenance as well as access — would be ideal as a shapefile
-Levinson, 1991
-Items checked out
-Circulation info
-This is a common dataset for libraries to publish as open data; this one would just be bookmobile-specific.
-Bagshaw, 2010; Levinson, 1991
-Number of checkouts 
-Circulation info
-Another common dataset for libraries to publish as open data, but book-mobile specific.
-Woltjer, 2018
-Route location coordinates
-Bookmobile route
-Including this data would allow for route mapping that could in turn allow for tracking app development. 
-Dankowski, 2018
-Location barriers
-Bookmobile route
-Geographic, social, and economic barriers of the location to access a library branch — could be interesting for analysis, but also could be found in another dataset. 
-Kiyotake, 2019
-User demographic (e.g. child, adult, senior)
-Circulation info
-A basic field, but not too granular, to determine usage statistics.
-Bagshaw, 2010;
-Kiyotake, 2019
+| *ADA feature: wheelchair lift* | Bookmobile specs | Bookmobiles now have to adhere to ADA regulations and requirements — but those can look different from vehicle to vehicle. | Bagshaw, 2010 |
+| *ADA feature: heating/cooling system* | Bookmobile specs | Bookmobiles now have to adhere to ADA regulations and requirements — but those can look different from vehicle to vehicle. | Bagshaw, 2010 |
+| *ADA feature: special lighting* | Bookmobile specs | Bookmobiles now have to adhere to ADA regulations and requirements — but those can look different from vehicle to vehicle. | Bagshaw, 2010 |
+| ADA feature: miscellaneous | Bookmobile specs | Bookmobiles now have to adhere to ADA regulations and requirements — but those can look different from vehicle to vehicle.  | Bagshaw, 2010 | 
+| Bookmobile type: bus, van, truck, recreational vehicle, etc. | Bookmobile specs | For comparison — there are so many types of bookmobiles now.  | Bagshaw, 2010 | 
+| Length in feet of bookmobile | Bookmobile specs | For comparison -- there are so many types of bookmobiles | Dancowski, 2018 |
+| Bookmobile maintenance | Bookmobile specs | Important to track for reporting and analysis  | Bagshaw, 2010 | 
+| Bookmobile costs — non-maintenance | Bookmobile specs | Similar to maintenance, important to track for reporting and analysis | Bagshaw, 2010; Levinson, 1991 |
+| Road conditions and other geographic features | Bookmobile route | Could be correlated to maintenance as well as access — would be ideal as a shapefile | Levinson, 1991 |
+| Items checked out | Circulation info | This is a common dataset for libraries to publish as open data; this one would just be bookmobile-specific. | Bagshaw, 2010; Levinson, 1991 |
+| Number of checkouts  | Circulation info | Another common dataset for libraries to publish as open data, but book-mobile specific. | Woltjer, 2018 |
+| Route location coordinates | Bookmobile route | Including this data would allow for route mapping that could in turn allow for tracking app development. | Dankowski, 2018 |
+| Location barriers | Bookmobile route | Geographic, social, and economic barriers of the location to access a library branch — could be interesting for analysis, but also could be found in another dataset. | Kiyotake, 2019 |
+| User demographic (e.g. child, adult, senior) | Circulation info | A basic field, but not too granular, to determine usage statistics. | Bagshaw, 2010; Kiyotake, 2019 |
 
 ### Data Privacy
 Particularly because bookmobiles tend to serve vulnerable populations, such as daycare centers, nursing hoes, prisons, and hospitals (Bagshaw, 2010; Udell, 2019), safeguarding data connected to these patrons is of utmost importance. The Sunlight Foundation’s Open Data Policy Guidelines emphasize public trust and data privacy throughout, particularly in policy number seven (n.d., b), which notes that whenever potential for harm from a data release outweighs potential for public good, data should be exempt. In considering which bookmobile data to publish openly, it’s important to keep public good and harm reduction front and center two equally important goals. 
@@ -103,9 +76,11 @@ Additionally, when recording information about underserved and perhaps underrepr
 Despite the fact that the first U.S. bookmobile’s creator, Mary Lemist Titcomb, collected data on operations in order to secure funding from Carnegie, there is a limited amount of academic literature regarding bookmobile operations and record-keeping. Instead, much of the information about mobile services, bookmobiles in particularly, can be found in more informal streams such as blogs. Additionally, likely due to the nascent nature of open data community maturity, limited formal guidance exists regarding open government data publishing. Instead, this literature review drew from data publishing guidance in areas like data science and statistics.  
 
 ### Implications & Conclusion
-    Despite their similarities in aims and challenges — both library mobile services and open data initiatives seek to increase access to information, and both have been challenged by economics and infrastructure — library mobile services and open data initiatives have rarely intersected, which we believe suggests a gap that can be addressed by our project. Just as mobile services have evolved within the last one hundred years, they will continue to change in the future. One way to better understand and evaluate these shifting environments is to collect and compare operational data, and then make that data open to the public for viewing and analysis. Because bookmobiles are transient and offer up an array of services, allowing the public to visualize these movements and operations via online applications could be a step forward for the service. Before this can happen, however, the mechanics of bookmobiles and the underlying structure of the data they generate needs to be organized, which we will undertake in the next stage of our project. 
-    Additionally, the study and creation of bookmobile data may inform future fields of study and data collection in library surveys, such as the Institute of Museum and Library Services’ Public Libraries Survey, as well as the library data our sponsor, the Washington State Library, collects. While no survey can perfectly capture the workings of an organization, it’s possible this project will uncover gaps in services reportings that can be addressed and improved. 
-As our research has shown, bookmobiles and mobile services have evolved substantially, and these changes are predicted to continue as user needs, trends and habits change, too. Given this inevitability, opening up data of mobile services provides the opportunity to not only chart these changes, but adapt in order to provide the best possible experience and access for users — which is, after all, what libraries are all about. About1.
+Despite their similarities in aims and challenges — both library mobile services and open data initiatives seek to increase access to information, and both have been challenged by economics and infrastructure — library mobile services and open data initiatives have rarely intersected, which we believe suggests a gap that can be addressed by our project. Just as mobile services have evolved within the last one hundred years, they will continue to change in the future. One way to better understand and evaluate these shifting environments is to collect and compare operational data, and then make that data open to the public for viewing and analysis. Because bookmobiles are transient and offer up an array of services, allowing the public to visualize these movements and operations via online applications could be a step forward for the service. Before this can happen, however, the mechanics of bookmobiles and the underlying structure of the data they generate needs to be organized, which we will undertake in the next stage of our project. 
+
+Additionally, the study and creation of bookmobile data may inform future fields of study and data collection in library surveys, such as the Institute of Museum and Library Services’ Public Libraries Survey, as well as the library data our sponsor, the Washington State Library, collects. While no survey can perfectly capture the workings of an organization, it’s possible this project will uncover gaps in services reportings that can be addressed and improved. 
+
+As our research has shown, bookmobiles and mobile services have evolved substantially, and these changes are predicted to continue as user needs, trends and habits change, too. Given this inevitability, opening up data of mobile services provides the opportunity to not only chart these changes, but adapt in order to provide the best possible experience and access for users — which is, after all, what libraries are all about.
 
 
 ### References
