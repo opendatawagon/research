@@ -85,110 +85,74 @@ As our research has shown, bookmobiles and mobile services have evolved substant
 
 ### References
 
-Bashaw, D. (2010). On the Road Again: A Look at Bookmobiles, Then and Now. Children & 
-Libraries: The Journal of the Association for Library Service to Children, 8(1), 32–35.
+Bashaw, D. (2010). On the Road Again: A Look at Bookmobiles, Then and Now. *Children & Libraries: The Journal of the Association for Library Service to Children, 8*(1), 32–35.
 
-Beno, M., Figl, K., Umbrich, J., & Polleres, A. (2017). Perception of Key Barriers in Using and 
-Publishing Open Data. JeDEM - EJournal of EDemocracy & Open Government, 9(2), 134-165.
+Beno, M., Figl, K., Umbrich, J., & Polleres, A. (2017). Perception of Key Barriers in Using and Publishing Open Data. *JeDEM - EJournal of EDemocracy & Open Government, 9*(2), 134-165.
 
-Broman, K. W., & Woo, K. H. (2018) Data Organization in Spreadsheets, The American 
-Statistician, 72(1), 2-10. doi: 10.1080/00031305.2017.1375989
+Broman, K. W., & Woo, K. H. (2018) Data Organization in Spreadsheets. *The American Statistician, 72*(1), 2-10. https://doi.org/10.1080/00031305.2017.1375989
 
-Cummings, J. (2009). “How Can We Fail?” The Texas State Library’s Traveling Libraries and 
-Bookmobiles, 1916-1966. Libraries & the Cultural Record, 44(3), 299–325. doi:10.1353/lac.0.0080.
+Cummings, J. (2009). “How can we fail?” The Texas State Library’s traveling libraries and bookmobiles, 1916-1966. *Libraries & the Cultural Record, 44*(3), 299–325. doi:10.1353/lac.0.0080.
 
-DataSF. (n.d.). Submission Guidelines. City of San Francisco. Retrieved from 
-https://datasf.org/publishing/submission-guidelines. 
+DataSF. (n.d.). Submission guidelines. *City of San Francisco.* https://datasf.org/publishing/submission-guidelines 
 
-Dankowski, T. (2018). By The Numbers: Bookmobiles. American Libraries Magazine. Retrieved 
-from: https://americanlibrariesmagazine.org/2018/03/01/by-the-numbers-bookmobiles/
+Dankowski, T. (2018). By the numbers: Bookmobiles. *American Libraries.* https://americanlibrariesmagazine.org/2018/03/01/by-the-numbers-bookmobiles/
 
-Denis, J., & Goëta, S. (2017). Rawification and the careful generation of open government data. 
-Social Studies of Science., 47(5), 604-629.
+Denis, J., & Goëta, S. (2017). Rawification and the careful generation of open government data. *Social Studies of Science, 47*(5), 604-629.
 
-EBSCO. (2018). Libraries on the Go: The Relevance of Bookmobiles in the Modern World. 
-EBSCOpost. Retrieved from: 
-https://www.ebsco.com/blog/article/libraries-on-the-go-the-relevance-of-bookmobiles-in-the-modern-world
+EBSCO. (2018). Libraries on the go: The relevance of bookmobiles in the modern world. *EBSCOpost.* https://www.ebsco.com/blog/article/libraries-on-the-go-the-relevance-of-bookmobiles-in-the-modern-world
 
-Eubanks, V. (2018). Automating inequality: inequality : How high-tech tools profile, police, and 
-punish the poor (First ed.). New York, NY: St. Martin's Press.
+Eubanks, V. (2018). *Automating inequality: How high-tech tools profile, police, and punish the poor* (First ed.). New York, NY: St. Martin's Press.
 
-Fifield, J. (2018). Yes, Bookmobiles Are Still A Thing.(We Checked). Pew Trusts. Retrieved 
-from: https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/03/28/yes-bookmobiles-are-still-a-thing-we-checked
+Fifield, J. (2018). Yes, bookmobiles are still a thing. (We checked). *Pew Trusts.* https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/03/28/yes-bookmobiles-are-still-a-thing-we-checked
 
-Goldenberg, R., & Thomas, A. (2019.). Hipster summer reading list 2019. The Pudding. Retrieved from 
-https://pudding.cool/2019/06/summer-reading. 
+Goldenberg, R., & Thomas, A. (2019). Hipster summer reading list 2019. *The Pudding.* https://pudding.cool/2019/06/summer-reading 
 
-Kiyotake, C. (2019.) Beep beep: Creating objective criteria for choosing bookmobile stops. American Library 
-Association. Retrieved from http://www.ala.org/advocacy/diversity/odlos-blog/beep-beep 
+Kiyotake, C. (2019.) Beep beep: Creating objective criteria for choosing bookmobile stops. *American Library Association.* http://www.ala.org/advocacy/diversity/odlos-blog/beep-beep 
 
-Koltay, T. (2015). Data literacy: In search of a name and identity. Journal of Documentation, 71(2), 401-415.
+Koltay, T. (2015). Data literacy: In search of a name and identity. *Journal of Documentation, 71*(2), 401-415.
 
-Kunkel, Rebecca. (2016). The U.S. government manual in XML: A case study of a 
-Data.gov open data set. Legal Reference Services Quarterly., 35(4), 256-265. DOI: 10.1080/0270319X.2016.1252227. 
+Kunkel, Rebecca. (2016). The U.S. government manual in XML: A case study of a Data.gov open data set. *Legal Reference Services Quarterly., 35*(4), 256-265. https://doi.org/10.1080/0270319X.2016.1252227 
 
-librarieshacked. (2019.) regular plug for the mobile library dashboard https://mobilelibraries.org 
-#mobilelibrariesdata working on system to maintain timetable data [Twitter post]. Retrieved from 
-https://twitter.com/librarieshacked/status/1206871828226068480. 
+librarieshacked. (2019). regular plug for the mobile library dashboard https://mobilelibraries.org #mobilelibrariesdata working on system to maintain timetable data [Twitter post]. 
+https://twitter.com/librarieshacked/status/1206871828226068480
 
-Levinson, N. S. (1991). Takin’ it to the streets; the history of the book wagon. Library Journal, 
-116(8), 43–45. 
+Levinson, N. S. (1991). Takin’ it to the streets: The history of the book wagon. *Library Journal, 116*(8), 43–45. 
 
-Mobile Libraries. (n.d.). Retrieved from https://www.mobilelibraries.org/ 
+Mobile Libraries. (n.d.). https://www.mobilelibraries.org/ 
 
-Mcdermott, P. (2010). Building open government. Government Information Quarterly, 27(4), 401-413.
+Mcdermott, P. (2010). Building open government. *Government Information Quarterly, 27*(4), 401-413.
 
-Obama, B. (2013). Executive order -- Making open and machine readable the new default for 
-government information. The White House, Office of the Press Secretary. Retrieved from https://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-. 
+Obama, B. (2013). Executive order -- Making open and machine readable the new default for government information. *The White House, Office of the Press Secretary.* https://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-
 
-Office of Information Policy (n.d.). What is FOIA? Retrieved from 
-https://www.foia.gov/about.html. 
+Office of Information Policy (n.d.). What is FOIA? https://www.foia.gov/about.html 
 
-Okamoto, K. (2016). Introducing open government data. The Reference Librarian, 58(2), 
-111-123. doi: 10.1080/02763877.2016.1199005.
+Okamoto, K. (2016). Introducing open government data. *The Reference Librarian, 58*(2), 111-123. https://doi.org/10.1080/02763877.2016.1199005
 
-Rawson, K., & Muñoz, T. (2016). Against Cleaning. Curating Menus. Retrieved from 
-http://curatingmenus.org/articles/against-cleaning/.
+Rawson, K., & Muñoz, T. (2016). Against  cleaning. *Curating Menus.* http://curatingmenus.org/articles/against-cleaning/
 
-Robinson, P., & Mather, L.W. (2017). Open data community maturity: Libraries as civic 
-infomediaries. Journal of the Urban and Regional Information Systems Association, 28, 31-38. Retrieved from https://www.urisa.org/clientuploads/directory/Documents/Journal/Vol28_final.pdf.
+Robinson, P., & Mather, L.W. (2017). Open data community maturity: Libraries as civic infomediaries. *Journal of the Urban and Regional Information Systems Association, 28*, 31-38. Retrieved from https://www.urisa.org/clientuploads/directory/Documents/Journal/Vol28_final.pdf
 
-Sunlight Foundation. (n.d.,a). Open Data Policy Guidelines: Guideline 1. Retrieved from 
-https://opendatapolicyhub.sunlightfoundation.com/guidelines/01-proactive-release/.
+Sunlight Foundation. (n.d.,a). Open data oolicy guidelines: Guideline 1. https://opendatapolicyhub.sunlightfoundation.com/guidelines/01-proactive-release/
 
-Shueh, J. (2015). Data reinvents libraries for the 21st century. Government Technology. 
-Retrieved from http://www.govtech.com/data/Data-Reinvents-Libraries-for-the-21st-Century.html#.  
+Shueh, J. (2015). Data reinvents libraries for the 21st century. *Government Technology.* http://www.govtech.com/data/Data-Reinvents-Libraries-for-the-21st-Century.html#
 
-Sunlight Foundation. (n.d.,b).  Open Data Policy Guidelines: Guideline 7. Retrieved 
-from https://opendatapolicyhub.sunlightfoundation.com/guidelines/07-sensitive-information/.
+Sunlight Foundation. (n.d.,b).  Open data policy guidelines: Guideline 7. https://opendatapolicyhub.sunlightfoundation.com/guidelines/07-sensitive-information/
 
-The Institute of Museum and Library Services. 2017. Public Libraries in the United States Fiscal Year 2015. Washington, DC: The Institute. Retrieved from: 
-https://www.imls.gov/sites/default/files/fy2016_pls_data_file_documentation.pdf
+The Institute of Museum and Library Services. (2017). Public libraries in the United States fiscal year 2015. Washington, DC: The Institute. https://www.imls.gov/sites/default/files/fy2016_pls_data_file_documentation.pdf
 
-Throgmorton, K., Norlander, B., & Palmer, C. (2019). Open Data Literacy and the Library. Alki: The 
-Washington Library Association Journal, 35(2), 27–29.
+Throgmorton, K., Norlander, B., & Palmer, C. (2019). Open Data Literacy and the library. *Alki: The 
+Washington Library Association Journal, 35*(2), 27–29.
 
-Udell, E. (2019). Countdown to the vote. American Libraries. 
-https://americanlibrariesmagazine.org/2019/11/01/countdown-vote-libraries-voter-registration/
+Udell, E. (2019). Countdown to the vote. *American Libraries.* https://americanlibrariesmagazine.org/2019/11/01/countdown-vote-libraries-voter-registration/
 
 
-Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(10), 1-23.
+Wickham, H. (2014). Tidy Data. *Journal of Statistical Software, 59*(10), 1-23.
 
-Woltjer, G. (2018). The Relevance of Bookmobiles and Mobile Libraries in 2018. Public 
-Libraries Online. Retrieved from: http://publiclibrariesonline.org/2018/07/the-relevance-of-bookmobiles-and-mobile-libraries-in-2018/   
+Woltjer, G. (2018). The relevance of bookmobiles and mobile libraries in 2018. *Public Libraries Online*. http://publiclibrariesonline.org/2018/07/the-relevance-of-bookmobiles-and-mobile-libraries-in-2018/   
 
-Washington State Office of the Chief Information Officer. (n.d.) Getting started with data.wa.gov. 
-Retrieved from https://ocio.wa.gov/open-data/getting-started-datawagov. 
+Washington State Office of the Chief Information Officer. (n.d.) Getting started with data.wa.gov. https://ocio.wa.gov/open-data/getting-started-datawagov
 
-Yarrow, A., & Mcallister, S. (2018). Trends in mobile and outreach services. Public Library 
-Quarterly, 37(2), 195-208.
+Yarrow, A., & Mcallister, S. (2018). Trends in mobile and outreach services. *Public Library Quarterly, 37*(2), 195-208.
 
-Xiao, F., Jeng, W., & He, D. (2018). Investigating metadata adoption for open government 
-data portals in US cities. L. Freund (Ed.). Paper presented at the 81st Annual Meeting of the Association for Information Science and Technology (pp. 573-582). Somerset, NJ: Wiley. 
-
-
-
-
-
-
+Xiao, F., Jeng, W., & He, D. (2018). Investigating metadata adoption for open government data portals in US cities. L. Freund (Ed.). Paper presented at the *81st Annual Meeting of the Association for Information Science and Technology* (pp. 573-582). Somerset, NJ: Wiley. 
 
