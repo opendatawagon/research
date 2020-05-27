@@ -5,6 +5,20 @@
 
 *Information School, University of Washington*
 
+#### Table of Contents
+* [Introduction](https://github.com/opendatawagon/research/blob/master/access-for-all-litreview.md#introduction)
+* [Purpose](https://github.com/opendatawagon/research/blob/master/access-for-all-litreview.md#purpose)
+* [Methodology](https://github.com/opendatawagon/research/blob/master/access-for-all-litreview.md#methodology)
+* [Bookmobile History](https://github.com/opendatawagon/research/blob/master/access-for-all-litreview.md#bookmobile-history)
+* [Current Bookmobile Ecosystem and Statistics](https://github.com/opendatawagon/research/blob/master/access-for-all-litreview.md#bookmobile-history)
+* [Open Data and Public Libraries](https://github.com/opendatawagon/research/blob/master/access-for-all-litreview.md#open-data-and-public-libraries)
+* [Open Data: Publishing Landscape](https://github.com/opendatawagon/research/blob/master/access-for-all-litreview.md#open-data-publishing-landscape)
+* [Proposed Fields](https://github.com/opendatawagon/research/blob/master/access-for-all-litreview.md#proposed-fields)
+* [Data Privacy](https://github.com/opendatawagon/research/blob/master/access-for-all-litreview.md#data-privacy)
+* [Gaps in Literature](https://github.com/opendatawagon/research/blob/master/access-for-all-litreview.md#gaps-in-literature)
+* [Implications and Conclusions](https://github.com/opendatawagon/research/blob/master/access-for-all-litreview.md#implications--conclusion)
+* [References](https://github.com/opendatawagon/research/blob/master/access-for-all-litreview.md#references)
+
 ### Introduction
 At their most fundamental levels, bookmobiles and open data promise the same ideal: access for everyone. This literature review seeks to merge two formerly disconnected areas of study together in order to present recommendations on the best way to open up data on library bookmobile services, and then publish that data to an open government data portal for public viewing and visualizing. In order to cover these two separate topics, this literature review will discuss the historic, current, and future landscape of bookmobiles; open data efforts and outreach services in libraries generally; and open data publishing specifically. Toward the end of this literature review, data fields for bookmobile services datasets will be proposed, and their potential implications discussed. 
 
